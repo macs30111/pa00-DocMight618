@@ -11,7 +11,7 @@ My current research focus on European security and what factors affect European 
 Below is a picture of the Point. 
 ![Sunset at the Promotory Point](482D15C9-1D68-47FF-8B7A-BD0DF5843067_1_105_c.jpeg)
 
-##Summary of the learning for this assignment
+## Summary of the learning for this assignment
 Learning the formatting in GitHub reminded me of my internship with Ballotpedia where I had to learn their formatting to publish content on their website. I reveiew this [page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for this assignment, and it was very helpful!
 
 
