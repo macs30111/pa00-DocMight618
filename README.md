@@ -1,13 +1,18 @@
 # PA00
+## Introduction 
 
-Edit this README file to include a brief biography of yourself. Your README should include the following elements:
-* Headers (one or more)
-* Emphasis (italics or/and bold)
-* Lists
-* Images: add a picture (of yourself or something else) to your repo and embed it in your README
-* Links
-* A summary and reflection of the Git/GitHub workflow you adopted for this homework, and of your experience with Markdown (e.g., provide a summary of the workflow you adopted, and add some comments about something new you learned, something that surprised you, etc.)
+Hello, everyone! My name is Ken Wang, and I am an international student from Beijing, China, but I have been living and studying in the United States since I was **15** years old. I am a second year MA student in the joint CIR/MACSS program at the University of Chicago. My research interests are: 
+* International Security
+* European Security
+* Political Communication (especially its intersection with international security)
+* International Institutions
+My current research focus on European security and what factors affect European states' defense spending behavior. I hope you can connect with me on my [LinkedIn](https://www.linkedin.com/in/hwang925/).
 
+Below is a picture of the Point. 
+![Sunset at the Promotory Point](482D15C9-1D68-47FF-8B7A-BD0DF5843067_1_105_c.jpeg)
+
+##Summary of the learning for this assignment
+Learning the formatting in GitHub reminded me of my internship with Ballotpedia where I had to learn their formatting to publish content on their website. I reveiew this [page](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for this assignment, and it was very helpful!
 
 
 ## 📚  Resources 
